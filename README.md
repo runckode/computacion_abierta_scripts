@@ -1,7 +1,6 @@
 # Script de Respaldo y Restauración en Unix/Linux
 
 Este repositorio contiene un script de Bash para realizar respaldos automáticos de archivos en un sistema Unix/Linux. El script crea un respaldo comprimido, verifica el espacio en disco, maneja permisos y registra las operaciones en un archivo de log.
-
 ---
 
 ## Instrucciones
